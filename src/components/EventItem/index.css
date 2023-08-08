@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.event-items-display-container {
+  display: flex;
+  flex-direction: row;
+  margin-right: 20px;
+}
+
+.events-image {
+  width: 200px;
+}

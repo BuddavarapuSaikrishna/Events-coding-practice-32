@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.Events-Container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.EventItems-container {
+  background-color: #475569;
+  padding: 20px;
+  width: 50%;
+}
+
+.EventsList-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Status-Container {
+  background-color: red;
+  width: 50%;
+}
